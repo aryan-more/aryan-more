@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 <a href="https://github.com/shubham-gupta-16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-more&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-more&layout=compact&theme=dark&langs_count=6&hide=HTML,Java,Kotlin,CMake,Swift" />
 </a>
