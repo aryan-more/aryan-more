@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan-more(Aryan More)
-- 👀 I’m interested in devoloping Application and Programms using Python and Flutter Framework
-- 🌱 I’m currently learning Cross-Platform application using Flutter
+- 👀 I’m interested in developing Cloud & Distributed Computing
+- 🌱 I’m currently learning AWS, Docker, Golang & Kubernetes
 - 📫 morearyan@outlook.com
 
 <!---
