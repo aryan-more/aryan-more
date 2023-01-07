@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryan-more(Aryan More)
-- 👀 I’m interested in developing Cloud & Distributed Computing
+- 👀 I’m interested in Cloud & Distributed Computing Development
 - 🌱 I’m currently learning AWS, Docker, Golang & Kubernetes
 - 📫 morearyan@outlook.com
 
